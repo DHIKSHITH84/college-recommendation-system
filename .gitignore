@@ -4,7 +4,6 @@ __pycache__/
 venv/
 .env
 *.pkl
-database/eapcet_colleges.db
 backend/venv/
 
 # Node
